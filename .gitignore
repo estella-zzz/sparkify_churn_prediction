@@ -1,0 +1,5 @@
+# macOS Files
+.DS_Store
+
+# .json too large for repo
+*.json
