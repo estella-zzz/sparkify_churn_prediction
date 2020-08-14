@@ -3,3 +3,6 @@
 
 # .json too large for repo
 *.json
+
+# ipynb caches
+*.ipynb_checkpoints
