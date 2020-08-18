@@ -1,6 +1,8 @@
 # Sparkify Churn Prediction with PySpark ML and AWS EMR
 
 ## Instructions
+[Link to Git Repo](https://github.com/estella-zzz/sparkify_churn_prediction)
+
 The project details are included in the blog post:
 [Link to the blog post](https://medium.com/@kxestella.zzz/predicting-churn-with-pyspark-ml-d65012e9ab7c?source=friends_link&sk=f69ff5ef9dbfd4f490bed130ba9b3b99)
 
